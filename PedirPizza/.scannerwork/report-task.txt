@@ -1,0 +1,6 @@
+projectKey=gene.bah:VendingMachineEmulator2
+serverUrl=http://localhost:9000
+serverVersion=6.7.7.38951
+dashboardUrl=http://localhost:9000/dashboard/index/gene.bah:VendingMachineEmulator2
+ceTaskId=AW3-r1tDNBwO5zz-3xI0
+ceTaskUrl=http://localhost:9000/api/ce/task?id=AW3-r1tDNBwO5zz-3xI0
